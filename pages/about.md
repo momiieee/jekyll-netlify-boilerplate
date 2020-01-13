@@ -5,6 +5,8 @@ permalink: /about
 section: about
 intro_paragraph: ''
 ---
+![](/assets/img/uploads/About_Me.jpg)
+
 Hi! My name is Momina Abid, and I recently graduated from Lahore University of Management Sciences, majoring in Economics & Politics, and minoring in Psychology.
 
 The first thing I did after I got my degree, quite literally, was join Teach for Pakistan as a Fellow. There are 40 of us, selected this year, and about 15 others who were selected last year. For 6 weeks, all of us were put through what was most likely one of the most intensive and rigorous teacher training programs in the country.
