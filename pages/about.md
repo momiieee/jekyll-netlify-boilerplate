@@ -5,8 +5,6 @@ permalink: /about
 section: about
 intro_paragraph: ''
 ---
-<!--StartFragment-->
-
 Hi! My name is Momina Abid, and I recently graduated from Lahore University of Management Sciences, majoring in Economics & Politics, and minoring in Psychology.\
 \
 The first thing I did after I got my degree, quite literally, was join Teach for Pakistan as a Fellow. There are 40 of us, selected this year, and about 15 others who were selected last year. For 6 weeks, all of us were put through what was most likely one of the most intensive and rigorous teacher training programs in the country.\
@@ -20,7 +18,3 @@ Fun fact: Only 1 out of these 100 students of mine can put together a grammatica
 So how am I going to possibly teach them to not only read and write, but also to understand what they are being taught, and take those skills forward in life?\
 \
 Come with me, as I walk/run/crawl through the next two years, trying to make the most of my time, efforts, and abilities, and make my girls grow into strong, fearless, confident, and independent women.
-
-
-
-<!--EndFragment-->
